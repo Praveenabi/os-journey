@@ -1,0 +1,6 @@
+{
+    "chat.agent.enabled": false,
+    "geminicodeassist.enable": false,
+    "chat.disableAIFeatures": true,
+    "gemini.codeassist.disableAIFeatures": true
+}
